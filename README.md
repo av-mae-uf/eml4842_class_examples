@@ -10,7 +10,7 @@ This contains several ROS2 packages that demonstrate how to create publish/subsc
   - cd <your_dev_ws>/src
 - Download the repository using
 
-  - git clone https://github.com/av-mae-uf/eml4930_gps_nav.git
+  - git clone https://github.com/av-mae-uf/eml4842_class_examples.git
 
 - Change your directory to your root workspace directory (~/<your_dev_ws>) and build the workspace.
 

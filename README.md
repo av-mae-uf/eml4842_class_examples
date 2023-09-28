@@ -20,3 +20,5 @@ This contains several ROS2 packages that demonstrate how to create publish/subsc
   - source install/setup.bash
 
 ## Explanation of packages
+- The PowerPoint file provides an overview of the nodes in each package.
+  - [Package_Description.pptx] (docs/Package_Description.pptx)

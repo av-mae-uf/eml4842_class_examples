@@ -21,4 +21,4 @@ This contains several ROS2 packages that demonstrate how to create publish/subsc
 
 ## Explanation of packages
 - The PowerPoint file provides an overview of the nodes in each package.
-  - [Package_Descriptions.pptx](docs/Package_Descriptions.pptx)
+  - [Package_Descriptions.pdf](docs/Package_Descriptions.pdf)
